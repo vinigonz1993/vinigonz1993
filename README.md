@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-gonzalez-caetano-06943044/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:vinigonz.caetano@gmail.com">
+  <a href="mailto:vinigonzalez1993@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
