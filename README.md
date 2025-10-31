@@ -51,6 +51,7 @@ I specialize in **Django REST Framework**, **React**, and **TypeScript**, and ha
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=vinigonz1993&theme=merko&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=490" alt="GitHub Streak" />
   </a>
+  <br/>
 </div>
 
 ---
