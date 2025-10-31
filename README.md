@@ -43,13 +43,11 @@ I specialize in **Django REST Framework**, **React**, and **TypeScript**, and ha
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 </div>
-
----
-
-### 🔥 Contributions
+<br/>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=vinigonz1993&theme=merko&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=490" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinigonz1993&layout=compact&langs_count=7&theme=dracula&card_width=490" alt="GitHub Streak" />
 </div>
+
 
 ---
 
