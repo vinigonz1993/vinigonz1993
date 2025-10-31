@@ -20,9 +20,9 @@
 I'm a **Software Engineer** experienced in building scalable backend systems and modern web applications.  
 I specialize in **Django REST Framework**, **React**, and **TypeScript**, and have a strong background in infrastructure automation with **Terraform** and **Ansible**.
 
-- 🔭 Currently building fintech and data-driven systems  
+- 🔭 Currently building data-driven systems  
 - ☁️ Passionate about backend APIs, cloud infrastructure, and automation  
-- 💡 Always exploring better practices in TDD, CI/CD, and software design  
+- 💡 Always exploring better practices in backend development, unit testing, CI/CD, and software design  
 - ⚙️ Tech Stack: Django, React, PostgreSQL, RabbitMQ, Terraform, AWS
 
 ---
