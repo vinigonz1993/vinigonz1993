@@ -17,7 +17,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a **Software Engineer** with experience in building scalable backend systems and modern web applications.  
+I'm a **Software Engineer** experienced in building scalable backend systems and modern web applications.  
 I specialize in **Django REST Framework**, **React**, and **TypeScript**, and have a strong background in infrastructure automation with **Terraform** and **Ansible**.
 
 - 🔭 Currently building fintech and data-driven systems  
@@ -47,22 +47,17 @@ I specialize in **Django REST Framework**, **React**, and **TypeScript**, and ha
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=vinigonz1993&theme=merko&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=490" alt="GitHub Streak" />
   </a>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vinigonz1993&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinigonz1993&layout=compact&theme=merko&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 ---
 
 ### 🧠 Tech Summary
-
 **Backend:** Django REST Framework, Python, Node.js, PostgreSQL, RabbitMQ  
-**Frontend:** React, TypeScript, JavaScript, jQuery, d3.js  
+**Frontend:** React, TypeScript, JavaScript, jQuery, D3.js  
 **DevOps / Cloud:** Terraform, Ansible, AWS, Docker  
 **Testing:** Selenium, Pytest, TDD  
 **Scripting:** Bash
